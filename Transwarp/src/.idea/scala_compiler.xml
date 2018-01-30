@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="scalatest" />
+    <profile name="Maven 10" modules="kafka_01020">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\java programs\pthwch\kafka_01020\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="pthwch">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\java programs\pthwch\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="hdfs">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\java programs\pthwch\hdfs\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="hyperbase">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\java programs\pthwch\hyperbase\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="kafka">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\java programs\pthwch\kafka\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="flume">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\java programs\pthwch\flume\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 7" modules="Inceptor">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\java programs\pthwch\Inceptor\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 8" modules="scala">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\java programs\pthwch\scala\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 9" modules="ScalaTraining">
+      <parameters>
+        <parameter value="-target:jvm-1.5" />
+      </parameters>
+    </profile>
+  </component>
+</project>

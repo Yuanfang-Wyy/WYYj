@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ear" />
+        <module name="ejbs" />
+        <module name="flume" />
+        <module name="hdfs" />
+        <module name="hyperbase" />
+        <module name="Inceptor" />
+        <module name="kafka" />
+        <module name="kafka_01020" />
+        <module name="logging" />
+        <module name="primary-source" />
+        <module name="servlet" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ear" target="1.5" />
+      <module name="ejbs" target="1.5" />
+      <module name="fgtf" target="1.5" />
+      <module name="Flume" target="1.5" />
+      <module name="flume" target="1.6" />
+      <module name="hdfs" target="1.7" />
+      <module name="hyperbase" target="1.5" />
+      <module name="Inceptor" target="1.5" />
+      <module name="kafka" target="1.5" />
+      <module name="kafka_01020" target="1.7" />
+      <module name="logging" target="1.5" />
+      <module name="primary-source" target="1.5" />
+      <module name="projects" target="1.5" />
+      <module name="pthwch" target="1.5" />
+      <module name="scala" target="1.5" />
+      <module name="Scala" target="1.5" />
+      <module name="scala_test" target="1.5" />
+      <module name="scalatest" target="1.5" />
+      <module name="ScalaTraining" target="1.5" />
+      <module name="servlet" target="1.5" />
+      <module name="servlets" target="1.5" />
+      <module name="test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+hdfsclient\Delete.class
+hdfsclient\CreateDir.class
+webhdfs\WebHdfsDemo.class
+hdfsclient\HdfsClientDemo.class
+hdfsclient\UploadFile.class
+hdfsclient\Downloader.class
+webhdfs\AppendFile.class
+webhdfs\CreateFile.class
+hdfsclient\CreateFile.class
+webhdfs\UpdataFile.class
+webhdfs\CreateDir.class
+hdfsclient\AppendFile.class

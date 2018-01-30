@@ -1,0 +1,7 @@
+udtf\UDTF_demo.class
+udf\UDF_demo.class
+udaf\myAvg$AvgState.class
+udaf\myAvg.class
+udaf\myAvg$AvgEvaluator.class
+InceptorSingleServer.class
+jdbc\InceptorMultiServer.class
